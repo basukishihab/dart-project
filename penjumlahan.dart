@@ -6,8 +6,8 @@ void main() {
   print("Result : ${count}");
   
   //////////// Example 2
-  int number3 = 5;
-  int number4 = 5;
+  int number3 = 8;
+  int number4 = 8;
    int count2 = number3 + number4;
   print("Result : ${count}");
   
